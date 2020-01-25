@@ -1,3 +1,3 @@
 # One-Hit-Ko-Source-File
 This is a hit and slash game where you have to kill monsters in 3 different rounds and show your might.
-![alt text]https://img.itch.zone/aW1nLzIxOTY5ODMucG5n/347x500/naRMLP.png
+Get the game here : https://barath121.itch.io/ohk-the-one-hit-kill-rpg
